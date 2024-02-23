@@ -1,2 +1,2 @@
-# JavaScript_basic_Tic-Tac-Toe_project.
+# JavaScript_basic_Tic-Tac-Toe project.
 # my-new-branch.
